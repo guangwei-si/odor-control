@@ -1,0 +1,247 @@
+data/sm/channels/labbrick/make_labbrick.bat.i
+data/sm/channels/smcLeCroy.m.i
+data/sm/smchaninst.m.i
+data/sm/channels/smaresetSR830.m.i
+data/config/smsetup.m.i
+data/sm/channels/smcATS660.asv.i
+data/sm/smscanf.m.i
+data/instruments/sminst_TDS5104.mat.i
+data/sm/smsaveinst.m.i
+data/sm/channels/labbrick/make_lbtest.bat.i
+data/sm/smaddchannel.asv.i
+data/sm/channels/labbrick/lbLoadLibrary.m.i
+data/sm/sminc.m.i
+data/sm/smhendrik.m.i
+data/sm/changelog.txt.i
+data/sm/smprintscan.asv.i
+data/sm/channels/smcSR830.asv.i
+data/instruments/sminst_AWG5000.mat.i
+data/sm/procfn/smpSpect.m~.i
+data/instruments/smdata_empty.mat.i
+data/sm/channels/smctemplate.asv.i
+data/Introduction.pptx.i
+data/sm/channels/labbrick/attic/make_lbtest.bat.i
+data/sm/channels/labbrick/i32/hidapi.dll.i
+data/Introduction.pptx.d
+data/sm/channels/smatrigAWG.m.i
+data/sm/smget.asv.i
+data/sm/channels/smcDecaDAC2.asv.i
+data/sm/channels/smcHP8350B.m.i
+data/sm/channels/smadacinit.m~.i
+data/sm/channels/smcDecaDAC4old.m.i
+data/sm/procfn/smpAve.m.i
+data/sm/channels/smcIPS12010GPIB.m.i
+data/sm GUI/smauxinit2.m.i
+data/sm/smscanpar.m~.i
+data/sm/channels/smatrigAWG.asv.i
+data/sm/channels/smctest.m.i
+data/sm/channels/smarampconfig.asv.i
+data/sm/channels/smastopYokos.m.i
+data/config/smscanconf.m.i
+data/instruments/sminst_Feedback.mat.i
+data/sm/channels/labbrick/attic/vnx_fsynsth2.h.i
+data/sm/channels/labbrick/labbrick.h.i
+data/sm/channels/smcDecaDAC3.asv.i
+data/sm GUI/saveppt.m.i
+data/sm/channels/labbrick/attic/vnx_fsynsth.dll.i
+data/sm/lognote.m.i
+data/sm/smrun.asv.i
+data/sm/channels/labbrick/notes.txt.i
+data/sm/channels/smaDMMsnglmode.asv.i
+data/sm GUI/sm_Callback.m.i
+data/sm/channels/smcIPS12010GPIB.asv.i
+data/sm/smprintinst.m.i
+data/sm/smdiagpar.asv.i
+data/sm/channels/smarampYokoSR830dmm.asv.i
+data/config/confLockin.m.i
+data/sm/channels/smcCoarseStep.asv.i
+data/sm/channels/smadacstepmode.m.i
+data/sm/channels/smcYoko.asv.i
+data/sm/README.txt~.i
+data/sm/channels/smcDecaDAC2.m~.i
+data/sm/smprintrange.asv.i
+data/instruments/sminst_AWG520.mat.i
+data/sm/smloadinst.m.i
+data/sm/channels/smatrigYokoSR830.m.i
+data/sm/channels/labbrick/attic/labbrick.dll.i
+data/sm/channels/labbrick/lbtest.cpp.i
+data/sm/smnext.m.i
+data/sm/channels/smabufconfig2.m.i
+data/sm/channels/smarampYokoSR830dmm2.m.i
+data/sm/channels/smatrigYokoSR830.asv.i
+data/sm/channels/smcSR830.m.i
+data/sm/smprintf.m.i
+data/sm/channels/labbrick/attic/labbrick.lib.i
+data/sm/smget.m.i
+data/sm/smdiagpar.m.i
+data/sm/changelog.txt~.i
+data/sm/smgetscanconst.m.i
+data/sm/channels/smaconfigwrap.m.i
+data/sm/smopen.asv.i
+data/sm/channels/smatrigDecaDACSR830dmm.m.i
+data/sm GUI/smsaveppt.asv.i
+data/sm/channels/labbrick/attic/vnx_fsynsth.lib.i
+data/sm/channels/smadacstepmode.asv.i
+data/sm/channels/smcDecaDAC4.m.i
+data/sm/smdiagpar.m~.i
+data/sm GUI/sm.fig.i
+data/sm/sminstlookup.m.i
+data/sm/channels/labbrick/i64/hidapi.h.i
+data/sm/channels/labbrick/i64/hidapi.lib.i
+data/sm/channels/smarampYokoTDS.m.i
+data/sm/channels/smcATS660v4.m.i
+data/sm/channels/smatrigDAC.asv.i
+data/sm/channels/smcdmmOld.m.i
+data/sm/channels/smcDecaDAC.m~.i
+data/instruments/sminst_HP1000A.mat.i
+data/sm/smset.m.i
+data/sm/channels/smcIPS12010GPIB.m~.i
+data/sm/smchanlookup.m.i
+data/sm/channels/smcdmm.m.i
+data/sm/channels/smcN.m.i
+data/sm/channels/smarampYokoSR830.m.i
+data/sm/channels/labbrick/attic/lbtest.cpp.i
+data/sm/channels/smabufconfig.m.i
+data/sm/smprintscan.m.i
+data/sm/channels/labbrick/readme.txt.i
+data/instruments/sminst_DecaDAC.mat.i
+data/sm/README.txt.i
+data/sm GUI/simplegui2.m.i
+data/sm GUI/smbatch.asv.i
+data/sm/channels/labbrick/attic/labbrick.exp.i
+data/sm/sminitdisp.asv.i
+data/sm GUI/smguichannels.m.i
+data/instruments/sminst_HP34401A.mat.i
+data/sm/procfn/smpSpect2.m.i
+data/sm/channels/smarampYokoSR830dmm.m.i
+data/sm/channels/smarampconfig.m~.i
+data/sm GUI/smbatch.m.i
+data/sm/channels/smcTDS5104.m.i
+data/sm/channels/smatrigYokoTDS.asv.i
+data/sm/smquery.m.i
+data/sm/channels/labbrick/attic/vnx_fsynsth.h.i
+data/sm/channels/labbrick/attic/labbrick.h.i
+data/sm/channels/smarampYokoLeCroy.m.i
+data/sm/smchaninst.asv.i
+data/sm/procfn/smpSpect.m.i
+data/sm/channels/smarampYokoSR830.asv.i
+data/instruments/sminst_ATS660.mat.i
+data/sm/channels/smcAWG5000.m.i
+data/sm/smaddchannel.m.i
+data/sm/channels/labbrick/i64/hidapi.dll.i
+data/sm/channels/smatrigAWG.m~.i
+data/sm GUI/smnotify.m.i
+data/sm/smalintrafo.m.i
+data/sm/channels/smcCoarseStep.m.i
+data/sm/channels/smabufconfig2.asv.i
+data/sm/channels/labbrick/labbrick.dll.i
+data/sm GUI/send_text_message.m.i
+data/sm/channels/smcLabBrick.m.i
+data/sm GUI/smguirack.m.i
+data/sm/channels/smcAWG520.asv.i
+data/sm/channels/smarampconfig.m.i
+data/sm/channels/labbrick/attic/readme.txt.i
+data/sm/smundo.m.i
+data/sm/channels/smcLeCroy.asv.i
+data/sm/smrunFlip.m.i
+data/sm GUI/smguibeta.asv.i
+data/sm GUI/smgui.m.i
+data/sm/channels/smarampYokoTDS.asv.i
+data/sm GUI/sm.m.i
+data/sm/channels/smcDecaDAC.m.i
+data/sm/procfn/smpSpect2.m~.i
+data/sm/channels/labbrick/attic/lbtest.obj.i
+data/sm GUI/smguichannels.asv.i
+data/sm/channels/smabufconfig.asv.i
+data/sm/logsetfile.m.i
+data/sm/smrun.m.i
+data/sm/channels/smcDecaDAC.asv.i
+data/sm/smrun.m.orig.i
+data/sm/channels/smcTDS5104.asv.i
+data/sm/smprintchannels.m.i
+data/sm/smsavechans.m.i
+data/sm GUI/smprintinst2.m.i
+data/instruments/sminst_SR830.mat.i
+data/.hgignore.i
+data/sm/channels/smctemplate.m.i
+data/sm/channels/smcATS660.m.i
+data/config/smstartup.m.i
+data/sm/channels/smcHP1000A.asv.i
+data/sm/channels/smatrig.m.i
+data/sm/channels/smcN9310.m.i
+data/instruments/sminst_HP8350B.mat.i
+data/sm/smsetscanconst.m.i
+data/sm/channels/smadacinitOld.m.i
+data/sm/smloadchans.m.i
+data/sm/channels/smcHP1000A.m.i
+data/sm/channels/smatrigYokoSR830dmm.m.i
+data/sm/channels/smcfeedback.m.i
+data/sm/sminitdisp.m.i
+data/sm/channels/smarampYokoSR830dmm2.asv.i
+data/sm/channels/smastopYokos.asv.i
+data/sm/procfn/smpSpect2.asv.i
+data/sm GUI/saveppt.asv.i
+data/sm/smrestore.m.i
+data/sm/channels/smcaux.m.i
+data/sm GUI/send_text_message.asv.i
+data/sm/channels/smcdmm.asv.i
+data/sm GUI/smgui.asv.i
+data/sm/channels/smcDecaDAC2.m.i
+data/sm/channels/smcLinearCombination.m.i
+data/sm GUI/smauxinit.m.i
+data/sm/logentry.m.i
+data/sm/channels/smcYoko.m.i
+data/sm/smscanpar.m.i
+data/sm/smrun.m~.i
+data/sm/channels/labbrick/attic/lbtest.exe.i
+data/instruments/sminst_IPS 120-10.mat.i
+data/sm/channels/labbrick/attic/labbrick.cpp.i
+data/sm/channels/smaresetSR830.asv.i
+data/sm/channels/smcDecaDAC3.m~.i
+data/instruments/sminst_test.mat.i
+data/sm/smscanpar.asv.i
+data/sm/channels/smcCS410V.m.i
+data/sm/channels/smcIPS12010.asv.i
+data/sm/procfn/smpSpectT.m~.i
+data/sm/channels/smcDecaDAC4.m~.i
+data/sm/channels/smcATS660v2.asv.i
+data/sm/channels/smatrigDecaDACSR830dmm.asv.i
+data/sm/channels/labbrick/i32/hidapi.lib.i
+data/sm/smcheckdata.m.i
+data/sm/smflush.m.i
+data/sm/channels/smarampYokoLeCroy.asv.i
+data/sm/channels/labbrick/labbrick.lib.i
+data/COPYING.i
+data/sm/channels/smcAWG5000.asv.i
+data/sm/channels/smadacinit.m.i
+data/sm/channels/smctest.asv.i
+data/sm/channels/smalbcntrl.m.i
+data/sm/channels/smcDecaDAC3.m.i
+data/LICENSE.i
+data/sm/channels/smcIPS12010.m.i
+data/sm/channels/smabufconfig.m~.i
+data/sm/smopen.m.i
+data/sm/channels/smcATS660v3.m.i
+data/sm/channels/labbrick/attic/make_labbrick.bat.i
+data/sm/channels/smcTDS5104.m~.i
+data/sm/channels/smatrigYokoTDS.m.i
+data/sm/smclose.m.i
+data/sm/sminstlookup.asv.i
+data/sm/channels/smcATS660v2.m.i
+data/sm/channels/smaDMMsnglmode.m.i
+data/sm/logadd.m.i
+data/sm/procfn/smpSpect.asv.i
+data/sm/smprintchannels.asv.i
+data/sm/channels/labbrick/labbrick.cpp.i
+data/instruments/sminst_Yoko7651.mat.i
+data/sm/smdispchan.m.i
+data/sm/channels/smatrigfn.m.i
+data/sm/channels/smatrigYokoSR830dmm.asv.i
+data/sm GUI/smsaveppt.m.i
+data/sm/smalintrafo.asv.i
+data/sm/channels/smcAWG520.m.i
+data/sm/channels/labbrick/i32/hidapi.h.i
+data/instruments/sminst_Aux.mat.i
+data/sm/smprintrange.m.i
+data/sm/channels/smcAMI420.m.i
+data/sm/channels/smatrigDAC.m.i
